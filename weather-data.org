@@ -1,7 +1,7 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: ~/weather-data/weather-data.org
 :END:
-Started a repo [[~/weather-data][here]] to learn about weather
+Started a repo to learn about weather
 * Plotting snowfall in new haven
 :PROPERTIES:
 :tangle:   ~/weather-data/plot-snow.py
